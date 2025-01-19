@@ -21,8 +21,8 @@ logs
 # Local env files
 .env
 .env.*
-<<<<<<< HEAD
+
 !.env.example
-=======
-!.env.example
->>>>>>> cec50f46a52123b77e510af09b16bacd31634a9b
+
+
+
